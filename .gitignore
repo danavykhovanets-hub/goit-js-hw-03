@@ -137,6 +137,7 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+<<<<<<< HEAD
 
 .DS_Store
 .CFUserTextEncoding
@@ -145,3 +146,5 @@ vite.config.ts.timestamp-*
 .matplotlib/
 .idlerc/
 .Trash/
+=======
+>>>>>>> 8a1c8ce39c84bcf33ffd15369936f0998985a30b
